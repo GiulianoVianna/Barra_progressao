@@ -1,4 +1,4 @@
-# Barra_progressao
+# Barra de Progressão
 
 Aplicação desenvolvida em Python e QT5.
 
